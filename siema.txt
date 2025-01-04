@@ -1,0 +1,1 @@
+Write-Host "To jest testowy skrypt."
